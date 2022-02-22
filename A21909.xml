@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. A proclamation against the carriage of dags, and for reformation of some other great disorders</title>
+            <title>Proclamations. 1594-12-02</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1594</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21909</idno>
+            <idno type="STC">STC 8240</idno>
+            <idno type="STC">ESTC S115507</idno>
+            <idno type="EEBO-CITATION">99850726</idno>
+            <idno type="PROQUEST">99850726</idno>
+            <idno type="VID">15951</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21909)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:96)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. A proclamation against the carriage of dags, and for reformation of some other great disorders</title>
+                  <title>Proclamations. 1594-12-02</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1594.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Against dags and other handguns--STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pistols --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:15951:1"/>
+            <!-- PDF PAGE 15 -->
+            <head>By the Queene.</head>
+            <head type="sub">A Proclamation againſt the carriage of Dags, and for reformation of ſome other great diſorders.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Queenes Maieſtie hearing by credible report, that there are great diſorbers lately growen in ſundry partes of her Realme, and ſpecially in and about her Citie of Lon<g ref="char:EOLhyphen"/>don, and in the vſual high wayes to wards the ſaid citie, and to her Maieſties Court, by common carrying of Dags, other wiſe called Piſtols, to the terrour of all people pro<g ref="char:EOLhyphen"/>feſſing to trauel and liue peaceably, and (which is moſt to her Maieſties grieſe) by the v<g ref="char:EOLhyphen"/>ſage whereof, certaine perſons haue bene of late in ſundry places ſlaine with ſuch pie<g ref="char:EOLhyphen"/>ces: Hereupon hath called to her remembrance, that ſhe hath by former proclamations publiſhed, ſtraightly forbidden the carying, not only of ſuch Dagges, but alſo of other longer peeces, as Caliuers &amp; ſuch like, in places and times not allowable for ſeruice: By which proclamations, as firſt, by one in very few words, in May the firſt of her reigne, Her Maieſtie reciting the Sta<g ref="char:EOLhyphen"/>tute of her noble Father King Henrie the eight, in the three and thirtieth yeere of his reigne, againſt the riding with handgunnes and dagges, vnder the length of three quarters of a yarde, commanded the ſame to be obſerued, &amp; charged all her Iuſtices of peace at their next Seſſions, to make inquiſition of the obſeruation thereof, and to ſee the ſame Sta<g ref="char:EOLhyphen"/>ture duely executed: And for that by proces of time, the due execution thereof hath ceaſſed, &amp; the diſorders growen much greater, not onely in open carrying ſuch Dags, but alſo in a deuiſe to haue ſecretly ſmall Dagges, commonly called pocket Dags, and in wearing alſo ſecretly coates of armour, commonly called priuie coates, whereby many robbe<g ref="char:EOLhyphen"/>ries and frayes haue bene increaſed, and became vnpuniſhed: Her Maieſty did in the xxi. yeere of her reigne by another open Proclamation, expreſſing the diſorders and dangers hereby enſuing, commaund that both her former Proclama<g ref="char:EOLhyphen"/>tion concerning the prohibition of Dags, ſhould bee ſpeedily put in execution, and added thereto her further comman<g ref="char:EOLhyphen"/>dements and prohibitions againſt a diſorder in carrying and ſhooting with Handguns &amp; Caliuers within two myles of the place of her Maieſties reſidence, and neere to Townes and mens houſes, where there was no cauſe of Muſters to ſhew the ſame, nor any places ordeined for exerciſe, and againſt the wearing of priuie Coates and Dublets of defence, by ſuch as thereby moued quarels and frayes, vpon other quiet ſubiects vnarmed: And in concluſion of the ſame lat<g ref="char:EOLhyphen"/>ter Proclamation, her Maieſtie did alſo commaund all her Officers in any Citie or Town, to make ſearch for all ma<g ref="char:EOLhyphen"/>ner of ſuch ſmall Dags called Pochet Dags, and ſpecially in ſhops and houſes of Artificers that doe vſe to make the ſme: and thoſe to take and keepe in their poſſeſſion, giuing the owners teſtimoniall of the receipt thereof, to the end if there ſhould be ſeene good cauſe, they might haue a reaſonable recompence.</p>
+            <p>All which former commaundements and prohibitions appearing in this time to be as neceſſary or rather more to be duely executed, then before time, her Maieſtie doeth newly nowe commaund to be preſently executed: Wherewith her Maieſtie chargeth all her Iuſtices of Peace, and ſpecially now at the firſt Seſſions that ſhalbe kept after Chriſtmas in all Counties, diligently to be giuen in charge, and by Iuries the defaults to be preſented and puniſhed.</p>
+            <p>And for more certaintie to haue the ſame ſo executed, her Maieſtie commaundeth the <hi>Cuſtos Rotulorum</hi> in euery Countie, and the Recorders in all Cities being Iuſtices of Peace, to make Certificat in writing to her Maieſties Coun<g ref="char:EOLhyphen"/>ſel in the Starre chamber within the ſpace of viii. dayes, from the beginning of euery <hi>Hillarie</hi> Terme, how this her Ma<g ref="char:EOLhyphen"/>ieſties preſent Proclamation hath bene in the ſayd firſt Seſſions executed: &amp; ſo yerely to certifie the like in euery <hi>Hillarie</hi> Terme, vntil the ſame be otherwiſe directed by admonition from her Maieſties ſayde Counſell, to ceaſe from the ſame.</p>
+            <p>And although hereby the carriage of Dags is generally prohibited, yet the carriage thereof ſhall not be prohibited to perſons appointed to come to Muſters, as horſemen with Dags to ſerue therewith, or to bee vſed by any of her Maie<g ref="char:EOLhyphen"/>ſties miniſters or their ſeruants for their more ſuretie to carry her Maieſties treaſure, or to bring her reuenue to places appointed: So as alwayes the carriage of ſuch Dags be in open ſort, to be manifeſtly ſeene to all perſons.</p>
+            <closer>
+               <dateline>Giuen at Somerſethouſe, <date>the ſecond day of December, 1594. in the xxxvii. yeere of her Maieſties Reigne.</date>
+               </dateline>
+               <lb/>
+God ſaue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <g ref="char:leaf">❧</g> Imprinted at London by the Deputies of <hi>Christopher Barker, Printer to the Queenes most</hi> excellent Maieſtie. 1594</p>
+         </div>
+      </back>
+   </text>
+</TEI>
